@@ -5,7 +5,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import net.runelite.client.config.Keybind;
 
-@ConfigGroup("wikishortcuts")
+@ConfigGroup("wikisearchshortcuts")
 public interface WikiSearchShortcutsConfig extends Config
 {
 	@ConfigItem(
